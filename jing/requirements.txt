@@ -1,7 +1,0 @@
-streamlit
-selenium
-pandas
-webdriver-manager
-matplotlib
-openpyxl
-chromedriver-py==125.0.6422.60
