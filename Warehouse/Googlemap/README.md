@@ -2,7 +2,6 @@
 
 This is a Google Maps business scraper based on Playwright. 
 
----
 
 ##  Features
 
@@ -11,9 +10,6 @@ This is a Google Maps business scraper based on Playwright.
 -  Automatically saves results in Excel (.xlsx) and CSV (.csv)
 -  Fully CLI-based, supports search term and record count
 
----
-
-##  Quick Start
 
 ### 1️⃣ Install Dependencies
 
