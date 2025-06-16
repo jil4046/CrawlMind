@@ -12,7 +12,7 @@ This Python script allows you to:
 Results are saved in a neatly formatted Excel file like:
 
 ```
-gmap_New_York_warehouse.xlsx
+gmap_location_service.xlsx
 ```
 
 ---
@@ -23,13 +23,12 @@ gmap_New_York_warehouse.xlsx
 - Extracts emails from `/contact` pages or homepage
 - Supports **multithreading** for fast email extraction
 - Clean Excel output with formatted column widths
-- Easy to run & modify
 
 ---
 
 ## 📦 Dependencies
 
-> You **do NOT** need a `requirements.txt`. Just run:
+run on terminal:
 
 ```bash
 pip install pandas beautifulsoup4 selenium openpyxl
@@ -108,27 +107,3 @@ With the following columns:
 - "Not found" is shown if no email is located
 - Excel columns are auto-formatted for readability
 - Some websites may block automated access (rare)
-
----
-
-## 🧪 Example Use Case
-
-You want to find logistics companies in Los Angeles:
-
-```python
-service = "logistics company"
-location = "Los Angeles"
-```
-
-This generates:
-
-```
-gmap_Los_Angeles_logistics_company.xlsx
-```
-
----
-
-## ✅ Good to Go!
-
-Want to scrape other cities, industries, or countries?  
-Just modify the `service` and `location` values, and you're set!
