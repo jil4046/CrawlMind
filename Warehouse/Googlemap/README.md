@@ -1,98 +1,134 @@
-# Google Maps Scraper
-This is a Google Maps business scraper based on Playwright. 
+# 🗺️ Google Maps Business Email Scraper
 
+This Python script allows you to:
 
-##  Features
+✅ Search for businesses on **Google Maps** by keyword and location  
+✅ Automatically extract each business's:
+- Name
+- Phone number
+- Website
+- Email (from their website)
 
--  Custom keyword search (e.g., “warehouse in New York”)
--  Extracts only key fields: Name, Website, Phone Number
--  Automatically saves results in Excel (.xlsx) and CSV (.csv)
--  Fully CLI-based, supports search term and record count
+Results are saved in a neatly formatted Excel file like:
 
+```
+gmap_New_York_warehouse.xlsx
+```
 
-### 1️⃣ Install Dependencies
+---
 
-Make sure you have Python 3 installed. Using a virtual environment is recommended:
+## 🔧 Features
+
+- Uses **Selenium** to interact with Google Maps
+- Extracts emails from `/contact` pages or homepage
+- Supports **multithreading** for fast email extraction
+- Clean Excel output with formatted column widths
+- Easy to run & modify
+
+---
+
+## 📦 Dependencies
+
+> You **do NOT** need a `requirements.txt`. Just run:
 
 ```bash
-pip install pandas openpyxl playwright
-python -m playwright install
-  
-# 🗺️ Google Maps Scraper (Simplified Version)
-
-An improved Google Maps business scraper using Playwright. This version only extracts **Business Name**, **Website**, and **Phone Number** for a cleaner and faster experience.
+pip install pandas beautifulsoup4 selenium openpyxl
+```
 
 ---
 
-## Installation
+## 🧱 Requirements
 
-1. **Clone the repository:**
+| Component     | Description                                |
+|---------------|--------------------------------------------|
+| Python        | 3.8 or higher                              |
+| Chrome        | Installed on your system                   |
+| ChromeDriver  | Matches your Chrome version and is in PATH |
 
-    ```bash
-    git clone https://github.com/yourusername/gmapscraper-improved.git
-    cd gmapscraper-improved
-    ```
+### 🧰 Install ChromeDriver
 
-2. **Create and activate a virtual environment** *(optional but recommended)*:
+1. Go to: https://chromedriver.chromium.org/downloads  
+2. Find your Chrome version and download matching driver  
+3. Place the `chromedriver` binary in your PATH (e.g. `/usr/local/bin` or project root)
 
-    ```bash
-    python -m venv venv
-    source venv/bin/activate     # On Windows: venv\Scripts\activate
-    ```
+**Optional for macOS (Homebrew):**
 
-3. **Install dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-    Make sure your `requirements.txt` includes:
-
-    ```text
-    playwright
-    pandas
-    openpyxl
-    ```
-
-4. **Install Playwright browsers:**
-
-    ```bash
-    python -m playwright install
-    ```
+```bash
+brew install chromedriver
+```
 
 ---
 
-## Usage
+## 🚀 How to Use
 
-1. **Search with one keyword:**
+### 1. Modify Keyword and Location
 
-    ```bash
-    python main.py -s "warehouse in New York" -t 10
-    ```
+Open the script and update these two lines:
 
-    - `-s`: search keyword  
-    - `-t`: number of businesses to scrape
+```python
+service = "warehouse"
+location = "New York"
+```
 
-2. **Search with multiple keywords (via input.txt):**
-
-    Create a file named `input.txt`, add one search term per line:
-
-    ```
-    warehouse in New York
-    warehouse in California
-    ```
-
-    Then run:
-
-    ```bash
-    python main.py -t 5
-    ```
+You can change `"warehouse"` to `"catering"`, `"coffee shop"`, etc.  
+And change `"New York"` to any city or country.
 
 ---
 
-## Output
+### 2. Run the Script
 
-Scraped results are saved in the `output/` folder, in both `.xlsx` and `.csv` formats.
+```bash
+python gmap_scraper.py
+```
 
-Example:
+---
 
+## 📁 Output Format
+
+A file like this will be generated:
+
+```
+gmap_New_York_warehouse.xlsx
+```
+
+With the following columns:
+
+| Business Name     | Phone Number     | Email            | Website                |
+|-------------------|------------------|------------------|------------------------|
+| Example Inc.      | (123) 456-7890   | info@example.com | https://example.com    |
+| Another Company   | N/A              | Not found        | https://acompany.com   |
+
+---
+
+## ⚠️ Notes
+
+- Emails are found by visiting each business's website:
+  - First tries `/contact`
+  - Falls back to homepage if needed
+- "Not found" is shown if no email is located
+- Excel columns are auto-formatted for readability
+- Some websites may block automated access (rare)
+
+---
+
+## 🧪 Example Use Case
+
+You want to find logistics companies in Los Angeles:
+
+```python
+service = "logistics company"
+location = "Los Angeles"
+```
+
+This generates:
+
+```
+gmap_Los_Angeles_logistics_company.xlsx
+```
+
+---
+
+## ✅ Good to Go!
+
+Want to scrape other cities, industries, or countries?  
+Just modify the `service` and `location` values, and you're set!
