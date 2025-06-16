@@ -1,5 +1,4 @@
-# 🗺️ Google Maps Scraper (Simplified Version)
-
+# Google Maps Scraper
 This is a Google Maps business scraper based on Playwright. 
 
 
