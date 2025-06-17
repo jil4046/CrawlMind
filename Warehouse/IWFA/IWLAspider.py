@@ -14,7 +14,7 @@ from selenium.webdriver.support.ui import Select
 state_value = "NY"  # Change to desired state's abbreviation
 
 # ===== CONFIGURE YOUR CHROMEDRIVER PATH HERE =====
-chrome_driver_path = "/Users/adiacheng1/Library/CloudStorage/OneDrive-Personal/ApplicationDoc/AIintern/chromedriver-mac-x64/chromedriver"  # Replace with your actual path
+chrome_driver_path = "./chromedriver-mac-x64/chromedriver"  # Replace with your actual path
 
 # ===== CHROME OPTIONS FOR BETTER ANTI-DETECTION =====
 chrome_options = Options()
