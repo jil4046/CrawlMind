@@ -1,4 +1,4 @@
-# 🗺️ Google Maps Business Email Scraper
+#  Google Maps Business Email Scraper
 
 This Python script allows you to:
 
@@ -17,7 +17,7 @@ gmap_location_service.xlsx
 
 ---
 
-## 🔧 Features
+## Features
 
 - Uses **Selenium** to interact with Google Maps
 - Extracts emails from `/contact` pages or homepage
@@ -36,7 +36,7 @@ pip install pandas beautifulsoup4 selenium openpyxl
 
 ---
 
-## 🧱 Requirements
+##  Requirements
 
 | Component     | Description                                |
 |---------------|--------------------------------------------|
@@ -44,7 +44,7 @@ pip install pandas beautifulsoup4 selenium openpyxl
 | Chrome        | Installed on your system                   |
 | ChromeDriver  | Matches your Chrome version and is in PATH |
 
-### 🧰 Install ChromeDriver
+### Install ChromeDriver
 
 1. Go to: https://chromedriver.chromium.org/downloads  
 2. Find your Chrome version and download matching driver  
