@@ -1,4 +1,4 @@
-#  Google Maps Business Email Scraper
+#  Google Maps Scraper
 
 This Python script allows you to:
 
