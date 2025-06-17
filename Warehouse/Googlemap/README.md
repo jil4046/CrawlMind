@@ -4,10 +4,10 @@ This Python script allows you to:
 
 ✅ Search for businesses on **Google Maps** by keyword and location  
 ✅ Automatically extract each business's:
-- Name
-- Phone number
-- Website
-- Email (from their website)
+- **Name**
+- **Phone number**
+- **Website**
+- **Email** (from their website)
 
 Results are saved in a neatly formatted Excel file like:
 
@@ -19,14 +19,14 @@ gmap_location_service.xlsx
 
 ## Features
 
-- Uses **Selenium** to interact with Google Maps
+- Uses Selenium to interact with Google Maps
 - Extracts emails from `/contact` pages or homepage
-- Supports **multithreading** for fast email extraction
+- Supports multithreading for fast email extraction
 - Clean Excel output with formatted column widths
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 run on terminal:
 
