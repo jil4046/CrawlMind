@@ -82,7 +82,7 @@ python gmap_scraper.py
 
 ---
 
-## 📁 Output Format
+## Output Format
 
 A file like this will be generated:
 
@@ -99,11 +99,7 @@ With the following columns:
 
 ---
 
-## ⚠️ Notes
+##  Acknowledgements
 
-- Emails are found by visiting each business's website:
-  - First tries `/contact`
-  - Falls back to homepage if needed
-- "Not found" is shown if no email is located
-- Excel columns are auto-formatted for readability
-- Some websites may block automated access (rare)
+This project is based on and inspired by [FraneCal/google-maps-scraper](https://github.com/FraneCal/google-maps-scraper).  
+Special thanks to the original author for open-sourcing their work.
