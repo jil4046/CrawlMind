@@ -88,26 +88,24 @@ def extract_first_valid_email(email_field):
     return ""  # Return blank if no valid email found
 
 
-# for file_name in file_list:
-#     df = pd.read_excel(file_name)
-#     print(f"Processing file: {file_name}")
-#     # Get emails from the first URL
-#     all_emails = []
-#     for website in df['Website']:    
-#         print(f"Processing {website}...")
-#         emails = extract_emails_with_contact_fallback(website)
-#         # if emails:
-#         #     print(f"Found emails: {emails}")
-#         # else:
-#         #     print("No emails found.")
-#         all_emails.append(emails)        
-#         print("\n")  # Add a newline for better readability between websites
-
-#     df['Emails'] = all_emails
-#     df.to_excel(file_name, index=False)
-
 for file_name in file_list:
     df = pd.read_excel(file_name)
-    df['Email'] = df['Emails'].apply(extract_first_valid_email)
+    print(f"Processing file: {file_name}")
+    # Get emails from the first URL
+    all_emails = []
+    first_emails = []
+    for website in df['Website']:    
+        print(f"Processing {website}...")
+        emails = extract_emails_with_contact_fallback(website)
+        # if emails:
+        #     print(f"Found emails: {emails}")
+        # else:
+        #     print("No emails found.")
+        email = extract_first_valid_email(emails)
+        all_emails.append(emails) 
+        first_emails.append(email)
+        print("\n")  # Add a newline for better readability between websites
+
+    df['Emails'] = all_emails
+    df['Email'] = first_emails
     df.to_excel(file_name, index=False)
-    print(f"Updated {file_name} with first valid emails.")
