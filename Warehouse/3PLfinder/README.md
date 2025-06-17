@@ -1,5 +1,5 @@
 # 3PL Finder Scrapper
-scrapes public 3plfinder.com listings for New York (NY), New Jersey (NJ) or California (CA) and saves the results to Excel.
+scrapes public [3PLfinder](https://3plfinder.com/search-result) listings for New York (NY), New Jersey (NJ) or California (CA) and saves the results to Excel.
 ## Requirements
 - Python 3.7+
 - `pip install -r requirements.txt`
