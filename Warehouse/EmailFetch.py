@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import ast
 
-
+# change file_list to the actual paths of your Excel files
 file_list = [    
     './3PLfinder/CA_3plfinder.xlsx',
     './3PLfinder/NJ_3plfinder.xlsx',
@@ -88,6 +88,8 @@ def extract_first_valid_email(email_field):
     return ""  # Return blank if no valid email found
 
 
+
+# Batch process for each file
 for file_name in file_list:
     df = pd.read_excel(file_name)
     print(f"Processing file: {file_name}")
