@@ -1,539 +1,111 @@
-Name,Address,Phone,Email,ZIP
-Dr. Colleen  Shea,Periodontics,,,02108
-Dr. Naijie  Guan,General Practice,,,02108
-Dr. Hidetada  Moroi,Periodontics,,,02108
-Dr. Basel  Badawi,General Practice,,,02108
-Dr. Chau Diem Hoang,General Practice,,,02108
-Dr. Yin  Hsu,General Practice,,,02108
-Dr. Matthew  Horan,General Practice,,,02108
-Dr. Ernest  Yazigi,Prosthodontics,,,02108
-Dr. Gina  Terenzi,General Practice,,,02108
-Dr. David Leo Burke,General Practice,,,02108
-Dr. Kelly Lynne Koch,General Practice,,,02108
-Dr. Marc L Nevins,Periodontics,,,02108
-Dr. Ekaterina  Mamulashvili,General Practice,,,02108
-Dr. Luri  Lee,General Practice,,,02108
-Dr. Jane  Osofsky,General Practice,,,02108
-Dr. Miguel  Vidal,Prosthodontics,,,02108
-Dr. Christa  Rizkallah,General Practice,,,02108
-Dr. Dean Alan Levy,General Practice,,,02108
-Dr. Richard D Oliver,General Practice,,,02108
-Dr. Kenneth A Malament,Prosthodontics,,,02108
-Dr. James  Stein,Prosthodontics,,,02108
-Dr. Alfred L Kraft,General Practice,,,02108
-Dr. Chuanjun  Wu,General Practice,,,02108
-Dr. Kay  Hoasjoe,General Practice,,,02108
-Dr. Taylor W Parent,General Practice,,,02108
-Dr. Arthur A Lew,General Practice,,,02108
-Dr. Aaron R Bynum,General Practice,,,02108
-Dr. Neil Mansukhlal Patel,General Practice,,,02108
-Dr. Saro A Babaian,General Practice,,,02108
-Dr. Dorothy K Nguyen,General Practice,,,02108
-Dr. David  Huynh,General Practice,,,02108
-Dr. Roxanna M Khadem,General Practice,,,02108
-Dr. Britney T Bries,General PracticePediatric Dentistry,,,02108
-Dr. Grant W Beyer,General Practice,,,02108
-Dr. Natalia T Trainor,General Practice,,,02108
-Dr. James M Cogliano,General Practice,,,02108
-Dr. Heather P Leung,General Practice,,,02108
-Dr. Michael S. H. Rauch,General Practice,,,02108
-Dr. Brittany A Bressler,General Practice,,,02108
-Dr. Min  Chao,General Practice,,,02108
-Dr. Joseph  Cheung,General Practice,,,02108
-Dr. Bianca C Velayo,General Practice,,,02108
-Dr. Parker W Hodges,General Practice,,,02108
-Dr. Nan  Chen,General Practice,,,02108
-Dr. Gillian M Weeks,General Practice,,,02108
-Dr. Kathryn Weber Ferrante,General Practice,,,02108
-Dr. Alyssa M Ebright,General Practice,,,02108
-Dr. Sheeva  Ahmadian,General Practice,,,02108
-Dr. Mandy  Alamwala,General Practice,,,02108
-Dr. James F Raymond,General Practice,,,02108
-Dr. Erik M Skates,General Practice,,,02108
-Dr. Nadeem  Karimbux,Periodontics,,,02108
-Dr. Emily E Karr,General Practice,,,02108
-Dr. Austin L Perera,Endodontics,,,02108
-Dr. David S Paul,General Practice,,,02108
-Dr. Alexander S Keith,General Practice,,,02108
-Dr. Christine L Cun,General Practice,,,02108
-Dr. Brandon W Kusik,General Practice,,,02108
-Dr. Jeanette  Sabir-Holloway,General Practice,,,02108
-Dr. Jenny  Su,General Practice,,,02108
-Dr. William J Cappello,General Practice,,,02108
-Dr. Sona G Galstian,General Practice,,,02108
-Dr. Gheddaf Dam  Hamasat,General Practice,,,02108
-Dr. Robert Lee Franklin,General Practice,,,02108
-Dr. Aaron M Shoopak,Orthodontics and Dentofacial Orthopedics,,,02108
-Dr. Stephen P Comstock,General Practice,,,02108
-Dr. Lauren Elise Belous,Endodontics,,,02108
-Dr. Brandon A Eash,General Practice,,,02108
-Dr. Audra  Reynoso,Orthodontics and Dentofacial Orthopedics,,,02108
-Dr. Alexander A Annese,General Practice,,,02108
-Dr. Eduardo J. Olegario,General Practice,,,02108
-Dr. Mary Virginia Karish-Dodge,General Practice,,,02108
-Dr. Karin V Arsenault,General Practice,,,02108
-Dr. Hans-Peter  Weber,Periodontics,,,02108
-Dr. Roberto S Carvalho,Orthodontics and Dentofacial Orthopedics,,,02108
-Dr. Nadia G Kotb,General Practice,,,02108
-Dr. Ivy Pruitt Pruitt,Endodontics,,,02108
-Dr. Amee J Patel,General Practice,,,02108
-Dr. Elina  Fooks,Endodontics,,,02108
-Dr. Gina  Terenzi,General Practice,,,02108
-Dr. George S Stevens,General Practice,,,02108
-Dr. Tannaz  Shapurian,Periodontics,,,02108
-Dr. Jill  Smith,General Practice,,,02108
-Dr. Alan S Budd,General Practice,,,02108
-Dr. Wm Jacob  Murray,General Practice,,,02108
-Dr. Jorge A Rodriguez,General Practice,,,02108
-Dr. Karan Paresh Ganjawalla,Oral and Maxillofacial Surgery,,,02108
-Dr. Richard John Tannyhill,Oral and Maxillofacial Surgery,,,02108
-Dr. John M Wozny,General Practice,,,02108
-Dr. Christine Marie Melito,EndodonticsOral and Maxillofacial Pathology,,,02108
-Dr. Iman Saad Labib,Endodontics,,,02108
-Dr. Timothy Mark Gabe,Endodontics,,,02108
-Dr. James Mark Hirshberg,General Practice,,,02108
-Dr. Louay  Abrass,Endodontics,,,02108
-Dr. Rustom F Mehta,Periodontics,,,02108
-Dr. Matthew Steven Ginsburg,General Practice,,,02108
-Dr. Sarah Bohyun Lee,General Practice,,,02108
-Dr. David John Fiorillo,General Practice,,,02108
-Dr. Rita K. Han,PeriodonticsProsthodontics,,,02108
-Dr. Edwin J Riley,General Practice,,,02108
-Dr. Soo Yeon  Kwon,General Practice,,,02115
-Dr. Raghav  Khandelwal,General Practice,,,02115
-Dr. Emily  Rosenberg,Pediatric Dentistry,,,02115
-Dr. Neha P Shah,Pediatric Dentistry,,,02115
-Dr. David M Kim,Periodontics,,,02115
-Dr. Daniel  Sierra-Vasquez,Oral and Maxillofacial Surgery,,,02115
-Dr. Bahram G Ghassemi,Orthodontics and Dentofacial OrthopedicsPediatric Dentistry,,,02115
-Dr. Gyuha  Jang,General Practice,,,02115
-Dr. Matthew Todd Silver,Orthodontics and Dentofacial Orthopedics,,,02115
-Dr. Ana Calles Zand,Orthodontics and Dentofacial Orthopedics,,,02115
-Dr. Isabelle I Chase,Pediatric Dentistry,,,02115
-Dr. Olympia  Karacosta,General Practice,,,02115
-Dr. Gino A Inverso,Oral and Maxillofacial SurgeryOrthodontics and Dentofacial Orthopedics,,,02115
-Dr. Robert B. Donoff,Oral and Maxillofacial Surgery,,,02115
-Dr. Marc Bernard Ackerman,Orthodontics and Dentofacial Orthopedics,,,02115
-Dr. Alexa Clare Martin,Endodontics,,,02115
-Dr. Anil K Gadre,Prosthodontics,,,02115
-Dr. James M Barber,General Practice,,,02115
-Dr. Michelle A Dempsey,General Practice,,,02115
-Dr. Athina  Mantzouranis,General Practice,,,02115
-Dr. Catherine J Moshirfar,Periodontics,,,02115
-Dr. Joseph J. Milavec,Prosthodontics,,,02115
-Dr. Megan McGillicuddy Huyett,General Practice,,,02115
-Dr. Eric  Gheewalla,Orthodontics and Dentofacial Orthopedics,,,02115
-Dr. Mark A Mizner,General Practice,,,02115
-Dr. Kostantina T Giannacopoulos,General Practice,,,02115
-Dr. Christina Di Bona Pastan,Endodontics,,,02115
-Dr. Irays  Santamaria-Dehni,General Practice,,,02115
-Dr. Patricia L Brown,Orthodontics and Dentofacial Orthopedics,,,02115
-Dr. Robin R Cox,General Practice,,,02115
-Dr. Omar  Salem,Orthodontics and Dentofacial Orthopedics,,,02115
-Dr. Qian  Yang,Oral and Maxillofacial Surgery,,,02115
-Dr. Steven  Shapiro,General Practice,,,02115
-Dr. Robert B Kerstein,Prosthodontics,,,02115
-Dr. Husam  Al-Khateeb,General Practice,,,02115
-Dr. Robert  Guen,General Practice,,,02115
-Dr. Po Po Isa Chui,General Practice,,,02115
-Dr. Arghavan  Shahidi,Prosthodontics,,,02115
-Dr. Jonathan  Millen,General Practice,,,02115
-Dr. Jose Luis Rivera-Zayas,General Practice,,,02115
-Dr. Carly F Park,Prosthodontics,,,02115
-Dr. Yang  Yu,General Practice,,,02115
-Dr. Jeanne C. Un,General Practice,,,02115
-Dr. Noha Anan Elkadry,Periodontics,,,02115
-Dr. Marsha  Shahnovich,General Practice,,,02115
-Dr. Jae Yeon Yeon Park,General Practice,,,02115
-Dr. Og  Lim,General Practice,,,02115
-Dr. Khara Cheresse Gresham,General Practice,,,02115
-Dr. Victoria M Kaplan,General Practice,,,02115
-Dr. Steven D Spitz,Prosthodontics,,,02115
-Dr. Faheem Syed Rasool,General Practice,,,02115
-Dr. Neda  Shah-Hosseini,General Practice,,,02115
-Dr. Joseph P Nore,General Practice,,,02115
-Dr. Shigueru  Yokoyama,General Practice,,,02115
-Dr. Christopher James Maguire,General Practice,,,02115
-Dr. Hidetada  Moroi,Periodontics,,,02115
-Dr. Paul J Scull,General Practice,,,02115
-Dr. Jennifer E Smith-Williams,Oral and Maxillofacial Surgery,,,02115
-Dr. Gheddaf Dam  Hamasat,General Practice,,,02115
-Dr. Norman  Lee,Periodontics,,,02115
-Dr. David  Tarnowski,General Practice,,,02115
-Dr. Nithya  Minnah,Orthodontics and Dentofacial Orthopedics,,,02115
-Dr. James S Morrison,General Practice,,,02115
-Dr. Kevin  Toomey,Prosthodontics,,,02115
-Dr. Amirali  Fattahi,General Practice,,,02115
-Dr. Mariam  Ghavamian,Orthodontics and Dentofacial Orthopedics,,,02115
-Dr. Jessy Nicolas Ajram,General Practice,,,02115
-Dr. Luhao E Chen,General Practice,,,02115
-Dr. Raju Raghu Gandhi,General Practice,,,02115
-Dr. Macy Summer Punzalan,General Practice,,,02115
-Dr. Ibrahim A Kantarci,Periodontics,,,02115
-Dr. Wesley  Barton,Pediatric Dentistry,,,02115
-Dr. Gary R Login,Oral and Maxillofacial Pathology,,,02115
-Dr. Omar  Alazizi,General Practice,,,02115
-Dr. Kelley Jean McLaughlin,General Practice,,,02115
-Dr. Matthew Jeffrey Garcia,General Practice,,,02115
-Dr. Michael A. Mayr,General Practice,,,02115
-Dr. Meaghan K Murray,General Practice,,,02115
-Dr. Erica Ruth Gilbert,Pediatric Dentistry,,,02115
-Dr. Sean M Langton,General Practice,,,02115
-Dr. Laura Lee Flynn,General Practice,,,02115
-Dr. Brandon A Ladeau,General Practice,,,02115
-Dr. David  Lane,General Practice,,,02115
-Dr. Mina  Ebrahimi-Daryani,Periodontics,,,02115
-Dr. Won Young  Kye,General Practice,,,02115
-Dr. Sirisha Durga Rao,General Practice,,,02115
-Dr. Susan Lynn Cunningham,General Practice,,,02115
-Dr. Mona  Haghani,Endodontics,,,02115
-Dr. Minal Sathish Narayan,General Practice,,,02115
-Dr. Andrew H Mancini,General Practice,,,02115
-Dr. Priyadarshini  Raju,General Practice,,,02115
-Dr. Matthew David Mara,General Practice,,,02115
-Dr. Jonathan C Enright,General Practice,,,02115
-Dr. Max  Enkin,General Practice,,,02115
-Dr. Syed Irfan Zaidi,General Practice,,,02115
-Dr. Paul  Cho,Oral and Maxillofacial Surgery,,,02115
-Dr. Oh Kyu  Kwon,General Practice,,,02115
-Dr. Varun  Arya,Oral and Maxillofacial Surgery,,,02115
-Dr. Marina  Gonchar,Orthodontics and Dentofacial Orthopedics,,,02115
-Dr. Yoshika E Yamamoto,General Practice,,,02115
-Dr. Anton G Andrews,General Practice,,,02210
-Dr. Eyad  Mayani,General Practice,,,02210
-Dr. Courtney Lynn Brady,General Practice,,,02210
-Dr. Michael F Arcieri,General Practice,,,02210
-Dr. Qian  Yang,Oral and Maxillofacial Surgery,,,02210
-Dr. Garima  Rana,General Practice,,,02210
-Dr. Rustom F Mehta,Periodontics,,,02210
-Dr. Misi  Huang,General Practice,,,02210
-Dr. David Christopher Ching,Pediatric Dentistry,,,02210
-Dr. Richard D Oliver,General Practice,,,02210
-Dr. Philip W Barber,General Practice,,,02210
-Dr. Ashley A. Amini-Sami,Prosthodontics,,,02210
-Dr. James Mark Hirshberg,General Practice,,,02210
-Dr. Louay  Abrass,Endodontics,,,02210
-Dr. Dean Alan Levy,General Practice,,,02210
-Dr. John M Wozny,General Practice,,,02210
-Dr. Christa  Rizkallah,General Practice,,,02210
-Dr. Malek H Esrawi,General Practice,,,02210
-Dr. Ekaterina  Mamulashvili,General Practice,,,02210
-Dr. Kelly Lynne Koch,General Practice,,,02210
-Dr. Jill  Smith,General Practice,,,02210
-Dr. Alan S Budd,General Practice,,,02210
-Dr. Chuanjun  Wu,General Practice,,,02210
-Dr. Kay  Hoasjoe,General Practice,,,02210
-Dr. Matthew  Horan,General Practice,,,02210
-Dr. William Joseph Herr,General Practice,,,02210
-Dr. Leslie P. Racowsky,General Practice,,,02210
-Dr. Wayne Bartholomew Yong,General Practice,,,02210
-Dr. Michele  Crohin,Periodontics,,,02210
-Dr. Roxanna M Khadem,General Practice,,,02210
-Dr. Alexander S Keith,General Practice,,,02210
-Dr. Taylor W Parent,General Practice,,,02210
-Dr. Jeanette  Sabir-Holloway,General Practice,,,02210
-Dr. Michael S. H. Rauch,General Practice,,,02210
-Dr. David S Paul,General Practice,,,02210
-Dr. Christine L Cun,General Practice,,,02210
-Dr. Stephen P Comstock,General Practice,,,02210
-Dr. Erik M Skates,General Practice,,,02210
-Dr. Jenny  Su,General Practice,,,02210
-Dr. Grant W Beyer,General Practice,,,02210
-Dr. Dorothy K Nguyen,General Practice,,,02210
-Dr. Emily E Karr,General Practice,,,02210
-Dr. Aaron M Shoopak,Orthodontics and Dentofacial Orthopedics,,,02210
-Dr. Arthur A Lew,General Practice,,,02210
-Dr. Sheeva  Ahmadian,General Practice,,,02210
-Dr. Alexander A Annese,General Practice,,,02210
-Dr. Min  Chao,General Practice,,,02210
-Dr. Gheddaf Dam  Hamasat,General Practice,,,02210
-Dr. Kathryn Weber Ferrante,General Practice,,,02210
-Dr. Natalia T Trainor,General Practice,,,02210
-Dr. Saro A Babaian,General Practice,,,02210
-Dr. Heather P Leung,General Practice,,,02210
-Dr. Robert Lee Franklin,General Practice,,,02210
-Dr. Brittany A Bressler,General Practice,,,02210
-Dr. Bianca C Velayo,General Practice,,,02210
-Dr. Mandy  Alamwala,General Practice,,,02210
-Dr. Parker W Hodges,General Practice,,,02210
-Dr. Alyssa M Ebright,General Practice,,,02210
-Dr. Britney T Bries,General PracticePediatric Dentistry,,,02210
-Dr. Audra  Reynoso,Orthodontics and Dentofacial Orthopedics,,,02210
-Dr. Joseph  Cheung,General Practice,,,02210
-Dr. Sona G Galstian,General Practice,,,02210
-Dr. James F Raymond,General Practice,,,02210
-Dr. Brandon A Eash,General Practice,,,02210
-Dr. Lauren Elise Belous,Endodontics,,,02210
-Dr. Aaron R Bynum,General Practice,,,02210
-Dr. David  Huynh,General Practice,,,02210
-Dr. Brandon W Kusik,General Practice,,,02210
-Dr. William J Cappello,General Practice,,,02210
-Dr. Neil Mansukhlal Patel,General Practice,,,02210
-Dr. Gillian M Weeks,General Practice,,,02210
-Dr. James M Cogliano,General Practice,,,02210
-Dr. Nadeem  Karimbux,Periodontics,,,02210
-Dr. Austin L Perera,Endodontics,,,02210
-Dr. Nan  Chen,General Practice,,,02210
-Dr. Amee J Patel,General Practice,,,02210
-Dr. Hans-Peter  Weber,Periodontics,,,02210
-Dr. Eduardo J. Olegario,General Practice,,,02210
-Dr. Nadia G Kotb,General Practice,,,02210
-Dr. Elina  Fooks,Endodontics,,,02210
-Dr. Karin V Arsenault,General Practice,,,02210
-Dr. Roberto S Carvalho,Orthodontics and Dentofacial Orthopedics,,,02210
-Dr. Mary Virginia Karish-Dodge,General Practice,,,02210
-Dr. Gina  Terenzi,General Practice,,,02210
-Dr. Ivy Pruitt Pruitt,Endodontics,,,02210
-Dr. David Leo Burke,General Practice,,,02210
-Dr. Maria  Pinilla,General Practice,,,02210
-Dr. Basel  Badawi,General Practice,,,02210
-Dr. Chau Diem Hoang,General Practice,,,02210
-Dr. Hidetada  Moroi,Periodontics,,,02210
-Dr. Colleen  Shea,Periodontics,,,02210
-Dr. Naijie  Guan,General Practice,,,02210
-Dr. Yin  Hsu,General Practice,,,02210
-Dr. Ernest  Yazigi,Prosthodontics,,,02210
-Dr. YUKO  TORIGOE,General Practice,,,02210
-Dr. Neha  Jhala,General Practice,,,02210
-Dr. Wm Jacob  Murray,General Practice,,,02210
-Dr. Sarah Bohyun Lee,General Practice,,,02210
-Dr. Lisa M Gabrish Grabovac,Pediatric Dentistry,,,02210
-Dr. Alfred L Kraft,General Practice,,,02210
-Dr. Karina  Vergara,Pediatric Dentistry,,,01890
-Dr. Maria T Di Benedetto,General Practice,,,01890
-Dr. W Wesley Reed,Endodontics,,,01890
-Dr. Sonia J Wu,Pediatric Dentistry,,,01890
-Dr. Thomas David Russo,General Practice,,,01890
-Dr. Miguel  Vidal,Prosthodontics,,,01890
-Dr. Leonidas  Exarchos,General Practice,,,01890
-Dr. Noha Anan Elkadry,Periodontics,,,01890
-Dr. Sara Louise Filstrup,Pediatric Dentistry,,,01890
-Dr. Robert William Wilson,Orthodontics and Dentofacial Orthopedics,,,01890
-Dr. Nabil Rene Ibrahim,General Practice,,,01890
-Dr. Nabil Rene Ibrahim,General Practice,,,01890
-Dr. Robert C Wilson,Orthodontics and Dentofacial Orthopedics,,,01890
-Dr. Ali  Salehpour,Endodontics,,,01890
-Dr. Khristy A Fontillas,General Practice,,,01890
-Dr. Patrick T Cooper,Pediatric Dentistry,,,01890
-Dr. Ryan M Clancy,General Practice,,,01890
-Dr. Talar  Guldalian,Prosthodontics,,,01890
-Dr. Melissa  Mancuso,General Practice,,,01890
-Dr. George P Moutevelis,General Practice,,,01890
-Dr. Daniel L Mc Call,General Practice,,,01890
-Dr. Oliver Evangelista Austria,General Practice,,,01890
-Dr. Xin Jenny  Wang,General Practice,,,01890
-Dr. Xin Jenny  Wang,General Practice,,,01890
-Dr. Isabelle B Jaillet,General Practice,,,01890
-Dr. Boris  Bacanurschi,General Practice,,,01890
-Dr. Shadi A Elmekkawi,General Practice,,,01890
-Dr. Michael  Fitzpatrick,General Practice,,,01890
-Dr. Paul J Scull,General Practice,,,01890
-Dr. Daniel C Varallo,Orthodontics and Dentofacial Orthopedics,,,01890
-Dr. Seung Heuk Chang,Prosthodontics,,,01890
-Dr. Barbara A Lawnicki,General Practice,,,01890
-Dr. Ryan D Forney,Oral and Maxillofacial Surgery,,,01890
-Dr. Hamid R Esbah-Tabatabaie,Oral and Maxillofacial Surgery,,,01890
-Dr. Neil S Hornung,Oral and Maxillofacial Surgery,,,01890
-Dr. George  Vosgerichian,General Practice,,,01890
-Dr. Rebecca Perkins Sheehan,Prosthodontics,,,01890
-Dr. Jessica S Cheng,General Practice,,,01890
-Dr. Michael S Garber,General Practice,,,01890
-Dr. Sarah Lyn Courtney,Periodontics,,,01890
-Dr. Neela  Gandhi,General Practice,,,01890
-Dr. Jason W Lee,Oral and Maxillofacial Surgery,,,01890
-Dr. Dario Enrique Gonzalez,General Practice,,,01890
-Dr. Richard A Short,General Practice,,,01890
-Dr. Ronni A Schnell,General Practice,,,01890
-Dr. jaleh A Cooney,Periodontics,,,01890
-Dr. Eric  Gheewalla,Orthodontics and Dentofacial Orthopedics,,,01890
-Dr. Annamarie M DeFeo,Pediatric Dentistry,,,01890
-Dr. Maria Angela  Cancado,General Practice,,,01890
-Dr. Anthony N Giamberardino,General Practice,,,01890
-Dr. Daniel  Jiang,Periodontics,,,01890
-Dr. Theresa  Venedikian,Prosthodontics,,,01890
-Dr. Joy E Kasparian-Federico,Orthodontics and Dentofacial Orthopedics,,,01890
-Dr. David M. Petrarca,Pediatric Dentistry,,,01890
-Dr. Sungyon  Bang,Pediatric Dentistry,,,01890
-Dr. Panasaya C Buckley,Pediatric Dentistry,,,01890
-Dr. Renato A Carpinito,General Practice,,,01890
-Dr. Mandana  Khalatbari,General Practice,,,01890
-Dr. BADRIEH  EDALATPOUR,Pediatric Dentistry,,,01890
-Dr. Paul K Shick,General Practice,,,01890
-Dr. Ammar F Farra,Prosthodontics,,,01890
-Dr. Nanette  Demonteverde,General Practice,,,01890
-Dr. Sumin  Hahm,General Practice,,,01890
-Dr. Benjamin A Hadar,General Practice,,,01890
-Dr. Ronit  Antebi-Hadar,General Practice,,,01890
-Dr. Theresa  Venedikian,Prosthodontics,,,01890
-Dr. Brian J Crowley,General Practice,,,01890
-Dr. Joseph G Maloney,PeriodonticsProsthodontics,,,01890
-Dr. Richa P. Bhatt,General Practice,,,01890
-Dr. Mark  Pernokas,General Practice,,,01890
-Dr. Kevin P Mooney,General Practice,,,01890
-Dr. Sherry A Chan,General Practice,,,01890
-Dr. Orla  Baker,General Practice,,,01890
-Dr. Anthony A Cardone,General Practice,,,01890
-Dr. Daliah  Salem,Periodontics,,,01890
-Dr. Joao Lo Sun Wang,General Practice,,,01890
-Dr. Pooja  Saroha,General Practice,,,01890
-Dr. Michael  Stangler,Prosthodontics,,,01890
-Dr. Marya f Montazeri,General Practice,,,01890
-Dr. Morin F Montazeri,General Practice,,,01890
-Dr. joseph Sung lee,General Practice,,,01890
-Dr. Daniel P Fanikos,Pediatric Dentistry,,,01890
-Dr. Laurice  Salib-Fanikos,General Practice,,,01890
-Dr. Sarah E. Richardson,General Practice,,,01890
-Dr. Sarah E. Richardson,General Practice,,,01890
-Dr. Edward J Vanisky,Oral and Maxillofacial Surgery,,,01890
-Dr. Rajeev  Panakanti,General Practice,,,01890
-Dr. Michael S F Ho,Periodontics,,,01890
-Dr. Kerith Elizabeth Rankin,Endodontics,,,01890
-Dr. J Paul Lukasiewicz,General Practice,,,01890
-Dr. Mei-Der Mayetta Chou,General Practice,,,01890
-Dr. Paul  Lombardo,General Practice,,,01890
-Dr. Emilie D. Miller,General Practice,,,01890
-Dr. Chad A Borer,General Practice,,,01890
-Dr. Natasha S. Yegorov,General Practice,,,01890
-Dr. Casey B Cook,General Practice,,,01890
-Dr. Suzanne M Avedikian,General Practice,,,01890
-Dr. Mark A Caddell,General Practice,,,01890
-Dr. Irida  Dautaj,General Practice,,,01890
-Dr. Lorna F Lally,General Practice,,,01890
-Dr. Ratti Sachdeva Handa,General Practice,,,01720
-Dr. Ratti Sachdeva Handa,General Practice,,,01720
-Dr. Jin Koo Kim,General Practice,,,01720
-Dr. Padma  Jonnavithula,General Practice,,,01720
-Dr. Eric M Block,General Practice,,,01720
-Dr. Erich F Kronenwett,General Practice,,,01720
-Dr. Yuan  Yao,General Practice,,,01720
-Dr. Heni  Tufa,General Practice,,,01720
-Dr. Daniel Kiel Coleman,Periodontics,,,01720
-Dr. Daniel Kiel Coleman,Periodontics,,,01720
-Dr. Gregory T Caldwell,Oral and Maxillofacial Surgery,,,01720
-Dr. Kieran F Dowd,Oral and Maxillofacial Surgery,,,01720
-Dr. John P Morgan,Oral and Maxillofacial Surgery,,,01720
-Dr. Tina  Gupta,General Practice,,,01720
-Dr. Stanley  Wang,Endodontics,,,01720
-Dr. Joseph A Jarosz,Pediatric Dentistry,,,01720
-Dr. Paul A Schnitman,Prosthodontics,,,01720
-Dr. Jitin  Sahani,General Practice,,,01720
-Dr. Vidya  Reddy,General Practice,,,01720
-Dr. Mark  Wang,Pediatric DentistryProsthodontics,,,01720
-Dr. Nicholas P Kondon,Prosthodontics,,,01720
-Dr. Hans Ivan Orup,Orthodontics and Dentofacial Orthopedics,,,01720
-Dr. Devon Marta Ptak,Endodontics,,,01720
-Dr. Maheen  Ishaq,General Practice,,,01720
-Dr. Brian H. Miller,Orthodontics and Dentofacial Orthopedics,,,01720
-Dr. Anya  Turker,General Practice,,,01720
-Dr. Maya  Muthuswamy,General Practice,,,01720
-Dr. Theresa G Carunungan,General Practice,,,01720
-Dr. John  Charamonde,General Practice,,,01720
-Dr. Young S Yi,Pediatric Dentistry,,,01720
-Dr. Azadeh  Shahab,General Practice,,,01720
-Dr. Carolyn A Lucey,Orthodontics and Dentofacial Orthopedics,,,01720
-Dr. Angela  Bhan,General Practice,,,01720
-Dr. Brendan J Curley,General Practice,,,01720
-Dr. Stephen M Vultaggio,General Practice,,,01720
-Dr. Allison Ferris Hopkinson,General Practice,,,01720
-Dr. Narges  Rashidfarokhi,General Practice,,,01720
-Dr. Joseph  Cheung,General Practice,,,01720
-Dr. Shih-Ming  Tang,General Practice,,,02453
-Dr. Charishma  Faigel,General Practice,,,02453
-Dr. Constant Charles Crohin,Periodontics,,,02453
-Dr. Carolyn A Lucey,Orthodontics and Dentofacial Orthopedics,,,02453
-Dr. Taejoon  Ahn,General Practice,,,02453
-Dr. John F Giglio,General Practice,,,02453
-Dr. Tacuhi Sona Tacvorian,General Practice,,,02453
-Dr. Robert J Lindberg,General Practice,,,02453
-Dr. Damian D Meola,General Practice,,,02453
-Dr. Lokesh  Suri,Orthodontics and Dentofacial Orthopedics,,,02453
-Dr. Robert  Defrancesco,General Practice,,,02453
-Dr. Kenneth A Mac Afee,Oral and Maxillofacial Surgery,,,02453
-Dr. Jane  Darviche,Periodontics,,,02453
-Dr. Rana  Abood,General Practice,,,02453
-Dr. Dominique D Rousson,General Practice,,,02453
-Dr. joseph Sung lee,General Practice,,,02453
-Dr. Neil H Epstein,Periodontics,,,02453
-Dr. Denise L Leong-Yokota,Prosthodontics,,,02453
-Dr. Noah P Orenstein,Prosthodontics,,,02453
-Dr. Adriana C Poleo,General Practice,,,02453
-Dr. Samuel M Shames,General Practice,,,02453
-Dr. Karen D Hallisey-Pesa,General Practice,,,02453
-Dr. Mark A. Gallucci,General Practice,,,02453
-Dr. Charles M Seitz,General Practice,,,02453
-Dr. Jinous  Hassanein,General Practice,,,02453
-Dr. Domenic  D'Amico,General Practice,,,02453
-Dr. Xing  Fan,General Practice,,,02453
-Dr. hien trung duong,General Practice,,,02453
-Dr. William V Byrne,General Practice,,,02453
-Dr. Constant Charles Crohin,Periodontics,,,02453
-Dr. Anna  Simon,General Practice,,,02453
-Dr. ray Yousry hanna,General Practice,,,02453
-Dr. Gretchen A Anjomi,General Practice,,,02453
-Dr. Po-Hsi J Wu,Pediatric Dentistry,,,02453
-Dr. Brendon  Chiou,General Practice,,,02453
-Dr. Philip P Scali,General Practice,,,02453
-Dr. Iman  Salama-Mack,General Practice,,,02453
-Dr. Elis  Paparisto,General Practice,,,02453
-Dr. Reem R Antun Lago,Pediatric Dentistry,,,02453
-Dr. Michael A Kramer,Periodontics,,,02453
-Dr. Jennifer L Klein,Endodontics,,,02453
-Dr. Emina  Zaganjori,Endodontics,,,02453
-Dr. Heidi Birnbaum Aaronson,General Practice,,,02453
-Dr. Peter  Velyvis,Endodontics,,,02453
-Dr. Rustom F Mehta,Periodontics,,,02453
-Dr. Wendy A Cohen,Orthodontics and Dentofacial Orthopedics,,,02453
-Dr. Tina L Wang,General Practice,,,02453
-Dr. Paul D Epstein,General Practice,,,02453
-Dr. James Nicholas Thiel,Prosthodontics,,,02453
-Dr. Paul  Davin,General Practice,,,02453
-Dr. Suzanne L Noel,Prosthodontics,,,02453
-Dr. Alaaeddin  Alwazzan,Prosthodontics,,,02453
-Dr. Gregg  Dillaway,General Practice,,,02453
-Dr. Lilia  Cucerov,General Practice,,,02453
-Dr. Tania-Nicole  Rohany,General Practice,,,02453
-Dr. Perichole Lyn Eilers Furgal,General Practice,,,02453
-Dr. Ramzi Antoine Sarkis,Endodontics,,,02453
-Dr. Alaaeddin  Alwazzan,Prosthodontics,,,02453
-Dr. Brian H. Miller,Orthodontics and Dentofacial Orthopedics,,,02453
-Dr. Rizwan Raza Baig,General Practice,,,02453
-Dr. Joan  Horgan,General Practice,,,02453
-Dr. Robert  Defrancesco,General Practice,,,02453
-Dr. Elizabeth Jane Brachowicz,General Practice,,,02453
-Dr. Ruhi S Khanna,General Practice,,,02453
-Dr. Alexander  Athanasiou,Orthodontics and Dentofacial Orthopedics,,,02453
-Dr. David S Kim,Prosthodontics,,,02453
-Dr. Jonathan S Bamel,General Practice,,,02453
-Dr. John H Walsh,General Practice,,,02453
-Dr. Nicole Margaret Ford,General Practice,,,02453
-Dr. Robert S Kaplan,General Practice,,,02453
-Dr. Anna M Berik,General Practice,,,02453
-Dr. Mani  Moulazadeh,Endodontics,,,02453
-Dr. Jane  Osofsky,General Practice,,,02453
-Dr. Paul W Baek,General Practice,,,02453
-Dr. Taylor W Parent,General Practice,,,02453
-Dr. Kirsi  Savusalo,Orthodontics and Dentofacial Orthopedics,,,02453
-Dr. Cary  Feuerman,Periodontics,,,02453
-Dr. Theodore  Filandrianos,General Practice,,,02453
-Dr. Leonard  Strauss,Periodontics,,,02453
-Dr. Samuel  Hsieh,General Practice,,,02453
-Dr. Taraneh  Naghieh,Periodontics,,,02453
-Dr. Michael  Pellegrini,General Practice,,,02453
-Dr. BLAISE C ECKERT,Oral and Maxillofacial Surgery,,,02453
-Dr. Pasquale  Eckert,Oral and Maxillofacial Surgery,,,02453
-Dr. Jean-Marie  Biebuyck,Periodontics,,,02453
-Dr. Miguel A Roque,Endodontics,,,02453
-Dr. Weihao  Wang,Endodontics,,,02453
-Dr. Joseph  Maniscalco,Prosthodontics,,,02453
-Dr. Seung Heuk Chang,Prosthodontics,,,02453
-Dr. Virginia  Gavris,Pediatric Dentistry,,,02453
-Dr. Carolyn  Melita,Orthodontics and Dentofacial Orthopedics,,,02453
-Dr. Nithya  Minnah,Orthodontics and Dentofacial Orthopedics,,,02453
-Dr. Alexander  Smolyar,General Practice,,,02453
-Dr. Ronit  Smolyar,Endodontics,,,02453
-Dr. James M Barber,General Practice,,,02453
-Dr. Leon B Bastajian,General Practice,,,02453
-Dr. Caterina  Raffa,Pediatric Dentistry,,,02453
-Dr. Ross Lee Anapolle,General Practice,,,02453
-Dr. Suzanne  Gendel,General Practice,,,02453
-Dr. Faridoon  Zamani,General Practice,,,02453
+Name,Address,Practice,Gender,Phone,Website,Detail URL,ZIP
+Dr. Naijie  Guan,General Practice,"128A Tremont St Ste 5 Boston, MA 02108-4716",,(617) 482-8550,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-naijie-guan-boston-0038V00002yjWQUQA2-a1C8V00000lWMRPUA4,02108
+Dr. Colleen  Shea,Periodontics,"63 Court St Boston, MA 02108-2109",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-colleen-shea-boston-0038V00002yjDckQAE-a1C8V00000lVhbOUAS,02108
+Dr. Yin  Hsu,General Practice,"128A Tremont St Fl 2 Boston, MA 02108-4716Arabic, Chinese, French",,(617) 423-0505,https://www.suffolkdental.com,/dentists/dr-yin-hsu-boston-0038V00002yil9kQAA-a1C8V00000kYgCsUAK,02108
+Dr. Basel  Badawi,General Practice,"63 Court St Boston, MA 02108-2109",,(508) 485-0008,https://www.citidentalboston.com,/dentists/dr-basel-badawi-boston-0038V00002yilLbQAI-a1C8V00000lZTiMUAW,02108
+Dr. Matthew  Horan,General Practice,"250 Washington St Ofc of Boston, MA 02108-4603English",,(617) 624-5943,https://www.mass.gov/lists/office-of-oral-health-contact-information,/dentists/dr-matthew-horan-boston-0038V00002yjXENQA2-a1C8V00000lWHYNUA4,02108
+Dr. Chau Diem Hoang,General Practice,"63 Court St Boston, MA 02108-2109Spanish, Vietnamese",,(617) 723-6300,https://www.citidentalboston.com,/dentists/dr-chau-diem-hoang-boston-0038V00002yjDmUQAU-a1C8V00000kYmBtUAK,02108
+Dr. Hidetada  Moroi,Periodontics,"63 Court St Boston, MA 02108-2109Japanese",,(857) 350-3400,https://www.citidentalboston.com,/dentists/dr-hidetada-moroi-boston-0038V00002yjFUWQA2-a1C8V00000lXHFBUA4,02108
+Dr. Ernest  Yazigi,Prosthodontics,"177 Tremont St Fl 6 Boston, MA 02111-1020",,,https://www.milleniumdental.net,/dentists/dr-ernest-yazigi-boston-0038V00002yjGDkQAM-a1C8V00000kYgK1UAK,02108
+Dr. Gina  Terenzi,General Practice,"180 Cambridge St Ste 3 Boston, MA 02114-2722",,(617) 722-0035,https://www.bcentraldental.com,/dentists/dr-gina-terenzi-boston-0038V00002yilW0QAI-a1C8V00000lZ2srUAC,02108
+Dr. David Leo Burke,General Practice,"2 Boylston St # 212 Boston, MA 02116-4737",,(617) 749-6654,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-david-leo-burke-boston-0038V00002yienlQAA-a1C8V00000lX26xUAC,02108
+Dr. Kelly Lynne Koch,General Practice,"36 Chauncy St Boston, MA 02111-2209",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-kelly-lynne-koch-boston-0038V00002yiFL3QAM-a1C8V00000lZ1jvUAC,02108
+Dr. Marc L Nevins,Periodontics,"175 Cambridge St Boston, MA 02114-2743",,(617) 720-0285,https://www.marcnevinsdmd.com,/dentists/dr-marc-l-nevins-boston-0038V00002yikRhQAI-a1C8V00000lXLKBUA4,02108
+Dr. Ekaterina  Mamulashvili,General Practice,"103 Arch St Boston, MA 02110-1356Portuguese, Spanish",,(617) 338-7778,https://www.archstreetdental.com,/dentists/dr-ekaterina-mamulashvili-boston-0038V00002ykEPeQAM-a1C8V00000kYBMNUA4,02108
+Dr. Luri  Lee,General Practice,"25 New Chardon Street Boston, MA 02114Korean, Spanish",,(508) 761-8668,https://www.seekonkdental.com,/dentists/dr-luri-lee-boston-0038V00002yiAw4QAE-a1C8V00000lYKc9UAG,02108
+Dr. Jane  Osofsky,General Practice,"25 New Chardon St Boston, MA 02114English",,(617) 965-0060,https://www.Boston-Dentist.com,/dentists/dr-jane-osofsky-boston-0038V00002yjYk6QAE-a1C8V00000lXdPbUAK,02108
+Dr. Miguel  Vidal,Prosthodontics,"165 Cambridge St Ste 401 Boston, MA 02114-2750English, Spanish",,(781) 729-5041,https://www.russellhilldental.com,/dentists/dr-miguel-vidal-boston-0038V00002ykCy6QAE-a1C8V00000kYNWfUAO,02108
+Dr. Christa  Rizkallah,General Practice,"185 Devonshire St Ste 410 Boston, MA 02110-1413",,,https://www.devonshiredental.org,/dentists/dr-christa-rizkallah-boston-0038V00002yjm3TQAQ-a1C8V00000kYOFOUA4,02108
+Dr. Dean Alan Levy,General Practice,"185 Devonshire St Ste 410 Boston, MA 02110-1413",,(617) 350-7474,https://www.devonshiredental.net,/dentists/dr-dean-alan-levy-boston-0038V00002yjm1qQAA-a1C8V00000lVf77UAC,02108
+Dr. Richard D Oliver,General Practice,"295 Devonshire St Ste 301 Boston, MA 02110-1266",,(617) 350-7774,https://www.richardoliverdmd.com,/dentists/dr-richard-d-oliver-boston-0038V00002yieFIQAY-a1C8V00000lXZBTUA4,02108
+Dr. James  Stein,Prosthodontics,"50 Staniford St Fl 10 Boston, MA 02114-2517",,(617) 227-6076,https://www.steinaesthetics.com,/dentists/dr-james-stein-boston-0038V00002yiif5QAA-a1C8V00000lX25sUAC,02108
+Dr. Kenneth A Malament,Prosthodontics,"50 Staniford St Boston, MA 02114-2517",,(617) 523-5451,https:///www.bostonprosthodontics.com,/dentists/dr-kenneth-a-malament-boston-0038V00002yii90QAA-a1C8V00000lYNxaUAG,02108
+Dr. Alfred L Kraft,General Practice,"25 New Chardon St Boston, MA 02114-4774",,(617) 977-5266,https://www.boston-dentist.com,/dentists/dr-alfred-l-kraft-boston-0038V00002yijjhQAA-a1C8V00000kYMiYUAW,02108
+Dr. Kay  Hoasjoe,General Practice,"65 Harrison Ave Ste 306 Boston, MA 02111-1924",,(617) 451-3839,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-kay-hoasjoe-boston-0038V00002yijjpQAA-a1C8V00000lXNOlUAO,02108
+Dr. Chuanjun  Wu,General Practice,"65 Harrison Ave Ste 418 Boston, MA 02111-1924Cantonese, Mandarin",,(617) 338-8883,https://Zoc doc. Drchuanjunwu,/dentists/dr-chuanjun-wu-boston-0038V00002yjaXGQAY-a1C8V00000lWiFqUAK,02108
+Dr. Gheddaf Dam  Hamasat,General Practice,"1 Kneeland St Boston, MA 02111Arabic, English, French, Spanish, Vietnamese",,617262673889,https://prudential-dental.com,/dentists/dr-gheddaf-dam-hamasat-boston-0038V00002yiSpDQAU-a1C8V00000kYWA4UAO,02108
+Dr. Neil Mansukhlal Patel,General Practice,"1 Kneeland St Boston, MA 02111",,,https://dedhamdental.com,/dentists/dr-neil-mansukhlal-patel-boston-0038V00002yjke2QAA-a1C8V00000lW8TKUA0,02108
+Dr. Aaron R Bynum,General Practice,"1 Kneeland St Boston, MA 02111",,(503) 543-4949,https://locations.willamettedental.com,/dentists/dr-aaron-r-bynum-boston-0038V00002yjnYFQAY-a1C8V00000kYFu7UAG,02108
+Dr. Dorothy K Nguyen,General Practice,"1 Kneeland St Boston, MA 02111Vietnamese",,(505) 200-9399,https://kneelanddentalcare.com,/dentists/dr-dorothy-k-nguyen-boston-0038V00002yk4jgQAA-a1C8V00000lWWpoUAG,02108
+Dr. Sona G Galstian,General Practice,"1 Kneeland St Boston, MA 02111",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-sona-g-galstian-boston-0038V00002yiCIkQAM-a1C8V00000lX2PsUAK,02108
+Dr. Michael S. H. Rauch,General Practice,"1 Kneeland St Boston, MA 02111English",,(203) 874-5577,https://www.TheMilfordDentist.com,/dentists/dr-michael-s-h-rauch-boston-0038V00002ykA9cQAE-a1C8V00000lXX9VUAW,02108
+Dr. Austin L Perera,Endodontics,"1 Kneeland St Boston, MA 02111",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-austin-l-perera-boston-0038V00002yjke9QAA-a1C8V00000kYjKIUA0,02108
+Dr. Christine L Cun,General Practice,"Tufts School of Dental Med
+ATTN: Office of Student Affairs
+1 Kneeland St Boston, MA 02111-1527",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-christine-l-cun-boston-0038V00002yjo6hQAA-a1C8V00000kYdwWUAS,02108
+Dr. Mandy  Alamwala,General Practice,"1 Kneeland St Boston, MA 02111",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-mandy-alamwala-boston-0038V00002yiBdxQAE-a1C8V00000lWf8XUAS,02108
+Dr. Joseph  Cheung,General Practice,"1 Kneeland St Boston, MA 02111",,(978) 369-2500,https://www.sudburydentalarts.com,/dentists/dr-joseph-cheung-boston-0038V00002yiFXUQA2-a1C8V00000lWT0nUAG,02108
+Dr. Saro A Babaian,General Practice,"1 Kneeland St Boston, MA 02111",,(818) 360-1946,https://www.balboadentalgroup.com,/dentists/dr-saro-a-babaian-boston-0038V00002yjnYCQAY-a1C8V00000lXwoiUAC,02108
+Dr. Britney T Bries,General PracticePediatric Dentistry,"1 Kneeland St Boston, MA 02111Spanish",,(608) 833-6545,https://www.facebook.com/southchildrensdentalcenterofmadison.com,/dentists/dr-britney-t-bries-boston-0038V00002yiB2aQAE-a1C8V00000lWgMeUAK,02108
+Dr. Audra  Reynoso,Orthodontics and Dentofacial Orthopedics,"1 Kneeland St Boston, MA 02111",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-audra-reynoso-boston-0038V00002yiRG3QAM-a1C8V00000lX28YUAS,02108
+Dr. Min  Chao,General Practice,"1 Kneeland St Boston, MA 02111Mandarin",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-min-chao-boston-0038V00002yjonvQAA-a1C8V00000lX4duUAC,02108
+Dr. Stephen P Comstock,General Practice,"1 Kneeland St Boston, MA 02111English",,(978) 454-5656,https://drumhilldental.com,/dentists/dr-stephen-p-comstock-boston-0038V00002yiB3OQAU-a1C8V00000lWPmbUAG,02108
+Dr. Aaron M Shoopak,Orthodontics and Dentofacial Orthopedics,"1 Kneeland St Boston, MA 02111",,(727) 776-8121,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-aaron-m-shoopak-boston-0038V00002yjmjaQAA-a1C8V00000lWyzPUAS,02108
+Dr. Alexander S Keith,General Practice,"1 Kneeland St Boston, MA 02111",,(530) 642-8614,https://www.oneloosetoothdental.com,/dentists/dr-alexander-s-keith-boston-0038V00002yjoXOQAY-a1C8V00000lYDFSUA4,02108
+Dr. James F Raymond,General Practice,"1 Kneeland St Boston, MA 02111English, Spanish",,(520) 800-7010,https://www.skylinedentaltucson.com,/dentists/dr-james-f-raymond-boston-0038V00002ykAc8QAE-a1C8V00000lXBUgUAO,02108
+Dr. Nadeem  Karimbux,Periodontics,"1 Kneeland St Rm 1512 Boston, MA 02111-1527",,(617) 636-6622,https://dental.tufts.edu,/dentists/dr-nadeem-karimbux-boston-0038V00002yidhyQAA-a1C8V00000lXvfBUAS,02108
+Dr. Jenny  Su,General Practice,"1 Kneeland St Boston, MA 02111",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-jenny-su-boston-0038V00002yiClEQAU-a1C8V00000kYhVPUA0,02108
+Dr. Emily E Karr,General Practice,"1 Kneeland St Boston, MA 02111",,(508) 746-9503,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-emily-e-karr-boston-0038V00002yiCItQAM-a1C8V00000lWfVZUA0,02108
+Dr. Alyssa M Ebright,General Practice,"1 Kneeland St Boston, MA 02111",,(603) 434-8800,https://www.londonderrydentist.com,/dentists/dr-alyssa-m-ebright-boston-0038V00002yjnYKQAY-a1C8V00000lZ1JmUAK,02108
+Dr. Parker W Hodges,General Practice,"1 Kneeland St Boston, MA 02111",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-parker-w-hodges-boston-0038V00002yiFGeQAM-a1C8V00000lWwu4UAC,02108
+Dr. Roxanna M Khadem,General Practice,"1 Kneeland St Boston, MA 02111",,(949) 525-2076,https://www.laderadentistry.com/our-practice/meet-the-doctors,/dentists/dr-roxanna-m-khadem-boston-0038V00002yjmZeQAI-a1C8V00000lViinUAC,02108
+Dr. William J Cappello,General Practice,"1 Kneeland St Boston, MA 02111",,(203) 816-5545,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-william-j-cappello-boston-0038V00002yjoo9QAA-a1C8V00000lZ3dkUAC,02108
+Dr. David S Paul,General Practice,"1 Kneeland St Dept of Boston, MA 02111-1527",,(617) 636-6819,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-david-s-paul-boston-0038V00002yidutQAA-a1C8V00000lWqOcUAK,02108
+Dr. Nan  Chen,General Practice,"Tufts School of Dental Med
+ATTN: Office of Student Affairs
+1 Kneeland St Boston, MA 02111-1527Mandarin",,(781) 499-5438,https://columbiaroaddental.com,/dentists/dr-nan-chen-boston-0038V00002yk4k6QAA-a1C8V00000lVeCoUAK,02108
+Dr. Robert Lee Franklin,General Practice,"Tufts School of Dental Med
+ATTN: Office of Student Affairs
+1 Kneeland St Boston, MA 02111-1527",,(828) 648-4228,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-robert-lee-franklin-boston-0038V00002yiBndQAE-a1C8V00000kYAWqUAO,02108
+Dr. Brittany A Bressler,General Practice,"Tufts School of Dental Med
+ATTN: Office of Student Affairs
+1 Kneeland St Boston, MA 02111-1527",,(508) 263-0482,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-brittany-a-bressler-boston-0038V00002yiDq7QAE-a1C8V00000kYLYZUA4,02108
+Dr. Alexander A Annese,General Practice,"1 Kneeland St Boston, MA 02111",,(781) 284-4058,https://www.annesedmd.com,/dentists/dr-alexander-a-annese-boston-0038V00002yiB35QAE-a1C8V00000lYCsfUAG,02108
+Dr. Bianca C Velayo,General Practice,"1 Kneeland St Boston, MA 02111",,(702) 757-3399,https://Www.velayodental.com,/dentists/dr-bianca-c-velayo-boston-0038V00002ykAcMQAU-a1C8V00000lVWn0UAG,02108
+Dr. Jeanette  Sabir-Holloway,General Practice,"1 Kneeland St # 1511B Boston, MA 02111-1527",,(317) 269-0402,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-jeanette-sabir-holloway-boston-0038V00002yk2MIQAY-a1C8V00000lWhwHUAS,02108
+Dr. Taylor W Parent,General Practice,"1 Kneeland St Boston, MA 02111",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-taylor-w-parent-boston-0038V00002yiFN7QAM-a1C8V00000lViytUAC,02108
+Dr. Lauren Elise Belous,Endodontics,"1 Kneeland St Boston, MA 02111English, Spanish",,,https://www.endodonticsofwestchester.com,/dentists/dr-lauren-elise-belous-boston-0038V00002yk4jkQAA-a1C8V00000lYOHNUA4,02108
+Dr. James M Cogliano,General Practice,"1 Kneeland St Boston, MA 02111",,(617) 742-5560,https://www.bostonsdentist.com,/dentists/dr-james-m-cogliano-boston-0038V00002yjo6gQAA-a1C8V00000lVlILUA0,02108
+Dr. Natalia T Trainor,General Practice,"1 Kneeland St Boston, MA 02111English, Russian",,(203) 876-2696,https://Www.tfamilydental.com,/dentists/dr-natalia-t-trainor-boston-0038V00002yjod8QAA-a1C8V00000lVjSkUAK,02108
+Dr. David  Huynh,General Practice,"1 Kneeland St Boston, MA 02111Vietnamese",,(978) 388-6308,https://amesburyfamilydental.com,/dentists/dr-david-huynh-boston-0038V00002yiFHFQA2-a1C8V00000kYAunUAG,02108
+Dr. Brandon A Eash,General Practice,"1 Kneeland St Boston, MA 02111Bulgarian, Spanish",,(617) 566-0103,https://www.EashDental.com,/dentists/dr-brandon-a-eash-boston-0038V00002ykA91QAE-a1C8V00000lXAikUAG,02108
+Dr. Brandon W Kusik,General Practice,"1 Kneeland St Boston, MA 02111",,(262) 338-2992,https://www.paradisedentalprofessionals.com,/dentists/dr-brandon-w-kusik-boston-0038V00002yiFHDQA2-a1C8V00000lXW8RUAW,02108
+Dr. Grant W Beyer,General Practice,"1 Kneeland St Boston, MA 02111",,(503) 655-0613,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-grant-w-beyer-boston-0038V00002yjoeFQAQ-a1C8V00000lZC4gUAG,02108
+Dr. Gillian M Weeks,General Practice,"1 Kneeland St Boston, MA 02111",,,https://www.drloislombardo.com,/dentists/dr-gillian-m-weeks-boston-0038V00002yiFXVQA2-a1C8V00000lXyz6UAC,02108
+Dr. Kathryn Weber Ferrante,General Practice,"1 Kneeland St Boston, MA 02111",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-kathryn-weber-ferrante-boston-0038V00002yiFXSQA2-a1C8V00000lWIgaUAG,02108
+Dr. Arthur A Lew,General Practice,"1 Kneeland St Boston, MA 02111English, Mandarin",,(617) 522-1970,https://www.pleasantstreetdentist.com,/dentists/dr-arthur-a-lew-boston-0038V00002yiDqoQAE-a1C8V00000lVhNcUAK,02108
+Dr. Sheeva  Ahmadian,General Practice,"1 Kneeland St Boston, MA 02111English, Farsi",,(617) 528-0044,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-sheeva-ahmadian-boston-0038V00002yiBe4QAE-a1C8V00000kYjTwUAK,02108
+Dr. Heather P Leung,General Practice,"1 Kneeland St Boston, MA 02111",,(978) 667-8292,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-heather-p-leung-boston-0038V00002yiAwbQAE-a1C8V00000kYfG9UAK,02108
+Dr. Erik M Skates,General Practice,"Tufts School of Dental Med
+ATTN: Office of Student Affairs
+1 Kneeland St Boston, MA 02111-1527",,(239) 694-5700,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-erik-m-skates-boston-0038V00002yiFWZQA2-a1C8V00000kYUuGUAW,02108
+Dr. Eduardo J. Olegario,General Practice,"1 Kneeland St Boston, MA 02111-1527",,(508) 996-3360,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-eduardo-j-olegario-boston-0038V00002yitwNQAQ-a1C8V00000lXpLOUA0,02108
+Dr. Nadia G Kotb,General Practice,"1 Kneeland St Boston, MA 02111",,(508) 234-5073,https://www.dentaloasismw.com,/dentists/dr-nadia-g-kotb-boston-0038V00002yjmZsQAI-a1C8V00000kXppqUAC,02108
+Dr. Ivy Pruitt Pruitt,Endodontics,"1 Kneeland St Boston, MA 02111",,(413) 562-3900,https://mainstreetendo.com,/dentists/dr-ivy-pruitt-pruitt-boston-0038V00002yjnXxQAI-a1C8V00000kYb3qUAC,02108
+Dr. Roberto S Carvalho,Orthodontics and Dentofacial Orthopedics,"1 Kneeland St # Tufts Boston, MA 02111-1527French, Portuguese, Spanish",,(508) 485-8788,https://www.bracesonline.com,/dentists/dr-roberto-s-carvalho-boston-0038V00002ykDqaQAE-a1C8V00000lWiaOUAS,02108
+Dr. Mary Virginia Karish-Dodge,General Practice,"1 Kneeland St Boston, MA 02111-1527",,(508) 821-6932,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-mary-virginia-karish-dodge-boston-0038V00002yiwLzQAI-a1C8V00000lWNHIUA4,02108
+Dr. Hans-Peter  Weber,Periodontics,"1 Kneeland St Ste 2220 Boston, MA 02111-1527",,(617) 729-2000,https://clearchoice.com,/dentists/dr-hans-peter-weber-boston-0038V00002yiiSeQAI-a1C8V00000kYk5lUAC,02108
+Dr. Amee J Patel,General Practice,"1 Kneeland St Boston, MA 02111Gujarati",,(815) 517-0178,https://www.dentalfields.com,/dentists/dr-amee-j-patel-boston-0038V00002yiB16QAE-a1C8V00000lXnZkUAK,02108
+Dr. Gina  Terenzi,General Practice,"1 Kneeland St Boston, MA 02111-1527",,(617) 722-0035,https://www.bcentraldental.com,/dentists/dr-gina-terenzi-boston-0038V00002yilW0QAI-a1C8V00000lY0DoUAK,02108
+Dr. Elina  Fooks,Endodontics,"1 Kneeland St Boston, MA 02111-1527",,,https://newenglanddentalgroup.com,/dentists/dr-elina-fooks-boston-0038V00002yjDQqQAM-a1C8V00000lXhY0UAK,02108
+Dr. Karin V Arsenault,General Practice,"1 Kneeland St Boston, MA 02111-1527",,(617) 636-6828,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-karin-v-arsenault-boston-0038V00002yjDdeQAE-a1C8V00000lXnXuUAK,02108
+Dr. George S Stevens,General Practice,"26 Marlborough St Apt 9 Boston, MA 02116-2136Greek, Vietnamese",,(617) 266-0441,https://www.bostoncosmeticdentistma.com,/dentists/dr-george-s-stevens-boston-0038V00002yikSIQAY-a1C8V00000lZC8XUAW,02108
+Dr. Tannaz  Shapurian,Periodontics,"11 Newbury St Boston, MA 02116-3131",,(617) 605-3315,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-tannaz-shapurian-boston-0038V00002yjFAVQA2-a1C8V00000lWMzpUAG,02108
+Dr. Alan S Budd,General Practice,"31 State St Ste 7 Boston, MA 02109-2717English",,(617) 742-1220,https://dentalhealthandwellnessboston.com,/dentists/dr-alan-s-budd-boston-0038V00002yk6O2QAI-a1C8V00000lZ97QUAS,02108
+Dr. Jill  Smith,General Practice,"31 State St Ste 7 Boston, MA 02109-2717English",,(617) 742-1220,https://www.dentalhealthandwellnessboston.com,/dentists/dr-jill-smith-boston-0038V00002yiduyQAA-a1C8V00000kYeZHUA0,02108
+Dr. Wm Jacob  Murray,General Practice,"100 Charles St S Boston, MA 02116-5430English",,,https://sites.google.com/site/jacobmurraydmd,/dentists/dr-wm-jacob-murray-boston-0038V00002yiio8QAA-a1C8V00000lVkoKUAS,02108
+Dr. Jorge A Rodriguez,General Practice,"359 Boylston St Ste 6 Boston, MA 02116-3378German, Portuguese, Spanish",,(617) 262-1422,https://bostonteeth.com,/dentists/dr-jorge-a-rodriguez-boston-0038V00002yjJmFQAU-a1C8V00000lXJ3zUAG,02108
+Dr. Karan Paresh Ganjawalla,Oral and Maxillofacial Surgery,"55 Fruit St Boston, MA 02114-2621",,(617) 773-9500,https://baysideoralsurgery.net,/dentists/dr-karan-paresh-ganjawalla-boston-0038V00002yiFWSQA2-a1C8V00000lXaoUUAS,02108
+Dr. Richard John Tannyhill,Oral and Maxillofacial Surgery,"55 Fruit St Boston, MA 02114-2621",,,https://www.massgeneral.org,/dentists/dr-richard-john-tannyhill-boston-0038V00002yjHdWQAU-a1C8V00000lWieNUAS,02108
+Dr. John M Wozny,General Practice,"12 Post Office Sq Boston, MA 02109-3924",,(781) 431-1424,https://www.hirshbergdental.com,/dentists/dr-john-m-wozny-boston-0038V00002yicLlQAI-a1C8V00000kXwKpUAK,02108
+Dr. Christine Marie Melito,EndodonticsOral and Maxillofacial Pathology,"5 Longfellow Pl Ste 205 Boston, MA 02114-2839English",,(781) 245-8828,https://ssdentalgroup.com,/dentists/dr-christine-marie-melito-boston-0038V00002yjSliQAE-a1C8V00000kY0fiUAC,02108
+Dr. Iman Saad Labib,Endodontics,"5 Longfellow Pl Ste 205 Boston, MA 02114-2839",,(617) 245-8828,https://www.bostonendodontics.com,/dentists/dr-iman-saad-labib-boston-0038V00002yijCKQAY-a1C8V00000lWNfSUAW,02108
+Dr. Timothy Mark Gabe,Endodontics,"5 Longfellow Pl Ste 205 Boston, MA 02114-2839",,(781) 245-8828,https://www.bostonendodontics.com,/dentists/dr-timothy-mark-gabe-boston-0038V00002yiiezQAA-a1C8V00000kYAsqUAG,02108
+Dr. James Mark Hirshberg,General Practice,"104 Milk St Boston, MA 02109",,,https://www.facebook.com/americandentalassociation?source=fad&medium=socialicons,/dentists/dr-james-mark-hirshberg-boston-0038V00002yijv1QAA-a1C8V00000lYNKwUAO,02108
+Dr. Louay  Abrass,Endodontics,"10 Post Office Sq Ste 1101 Boston, MA 02109-4603English",,(978) 475-8008,https://www.MicroEndodonticsLLC.com,/dentists/dr-louay-abrass-boston-0038V00002yjMJBQA2-a1C8V00000lXkYFUA0,02108
+Dr. Rustom F Mehta,Periodontics,"175 Federal St Fl 14 Boston, MA 02110-2210",,(617) 332-8862,https://www.healthygums.com,/dentists/dr-rustom-f-mehta-boston-0038V00002yicLAQAY-a1C8V00000lX2DZUA0,02108
+Dr. Matthew Steven Ginsburg,General Practice,"31 Saint James Ave Ste 780 Boston, MA 02116-4138English",,(617) 536-9057,https://BostonBestSmile.com,/dentists/dr-matthew-steven-ginsburg-boston-0038V00002ykDksQAE-a1C8V00000kY1R0UAK,02108
+Dr. Sarah Bohyun Lee,General Practice,"121 Charles St S Boston, MA 02116-5432Korean",,(617) 226-2822,https://charlesstdental.com,/dentists/dr-sarah-bohyun-lee-boston-0038V00002yji9GQAQ-a1C8V00000lVdjNUAS,02108
+Dr. David John Fiorillo,General Practice,"437 Boylston St Fl 5 Boston, MA 02116-3307",,,https://www.fiorillodental.com,/dentists/dr-david-john-fiorillo-boston-0038V00002yj8DsQAI-a1C8V00000kY72xUAC,02108
+Dr. Edwin J Riley,General Practice,"10 Hawthorne Pl Ste 102 Boston, MA 02114-2336English, Korean",,(617) 723-4032,https://Www.rdaboston.com,/dentists/dr-edwin-j-riley-boston-0038V00002yjLWhQAM-a1C8V00000lWqIyUAK,02108
+Dr. Rita K. Han,PeriodonticsProsthodontics,"10 Hawthorne Pl Ste 102 Boston, MA 02114-2336",,(617) 723-4032,https://www.rdaboston.com,/dentists/dr-rita-k-han-boston-0038V00002yjcr1QAA-a1C8V00000lW0EhUAK,02108
