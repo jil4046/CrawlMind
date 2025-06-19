@@ -58,21 +58,28 @@ for box in boxes:
     try:
         business_name = box.find('div', class_='qBF1Pd').getText()
     except:
-        business_name = "N/A"
+    pass
     try:
         phone_number = box.find('span', class_='UsdlK').getText()
     except:
-        phone_number = "N/A"
+    pass
     try:
         website = box.find('a', class_='lcr4fd').get('href')
     except:
-        website = "N/A"
+    pass
+    try:
+        inner_div = box.find_all('div', class_='W4Efsd')[1].find('div', class_='W4Efsd')
+        address = [span.text for span in inner_div.find_all('span') if span.text and not span.find('span')][-1]
+    except:
+    pass
 
     data.append({
         'Business Name': business_name,
         'Phone Number': phone_number,
         'Email': '',
         'Website': website,
+        'Address': address,
+        'Source': 'Google Maps'
     })
 
 df = pd.DataFrame(data)
@@ -147,6 +154,7 @@ ws.column_dimensions['A'].width = 30  # Business Name
 ws.column_dimensions['B'].width = 18  # Phone Number
 ws.column_dimensions['C'].width = 30  # Email
 ws.column_dimensions['D'].width = 20  # Website
+ws.column_dimensions['E'].width = 20  # address
 
 wb.save(output_file)
 
